@@ -30,11 +30,11 @@ Date: 2017-05-01<br>
 >>	*NetTide-Survival: captures the growth dynamics from hazard rates (hazard process).<br>
 >Input:<br> 
 >>	*Input network, reads the edge file <br>
->>	    Data format: blank-separated pairs , e.g 0 1 represents 0->1 <br>
->>>		Network: e.g., <br>
->>>>			1.Complete network, ra ndom network <br>
->>>>			2.Kronecker network <br>
->>>>			3.Or any other network <br>
+>>	  Data format: blank-separated pairs , e.g 0 1 represents 0->1 <br>
+>>		Network: e.g., <br>
+>>>			1.Complete network, ra ndom network <br>
+>>>			2.Kronecker network <br>
+>>>			3.Or any other network <br>
 >>        Nodes have been numbered 0-$n-1$ <br>
 >>	*Parameters: beta, theta, beta_prime, alpha, gamma, N <br>
 >Output: <br>
