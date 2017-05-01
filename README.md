@@ -28,8 +28,8 @@ C++:
 >>>		1/t^theta : fizzling effect 
 >>>		the alpha and gamma describe the average number of friends in the ego network.
 >Two generators:<br>
->>	*NetTide-Process: captures the micro-level stochastic interactions within a network. 
->>	*NetTide-Survival: captures the growth dynamics from hazard rates (hazard process).    
+>>	NetTide-Process: captures the micro-level stochastic interactions within a network. 
+>>	NetTide-Survival: captures the growth dynamics from hazard rates (hazard process).    
 
 >Input:<br> 
 >>	Input network, reads the edge file 
@@ -49,3 +49,4 @@ C++:
 Matlab:    
 
 >Goal: Fit the growth dynamics by NetTide model, plot, and regenerate them. <br>
+
