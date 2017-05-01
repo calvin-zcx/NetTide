@@ -5,14 +5,17 @@
   booktitle={KDD},
   year={2016}
 }
+
 More details in the upcoming journal version.
+
 More info on the Social Dynamics and beyond: http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/
 
 Author: Chengxi Zang
 Date: 2017-05-01
+
 C++: 
 Goal: Generate realistic growth dynamics, both for node and link, of social networks.
-The growth dynamics of node and link are captured by NETTIDE equations:
+The growth dynamics of node and link are captured by NETTIDE equations:\n
 	*Node adoption:
 		n-dot = beta / t^theta * n * (N - n )
 	*Link build between infected-infected and infected-newly infected:
