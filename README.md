@@ -1,11 +1,14 @@
 # NetTide
+
 @inproceedings{Zang2016BeyondST,<br>
   title={Beyond Sigmoids: The NetTide Model for Social Network Growth, and Its Applications},<br>
  author={Chengxi Zang and Peng Cui and Christos Faloutsos},<br>
   booktitle={KDD},<br>
  year={2016}<br>
 }<br>
+
 More details in the upcoming journal version.<br>
+
 More info on the Social Dynamics and beyond: http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/  <br>
 
 Author: Chengxi Zang<br>
